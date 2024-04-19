@@ -10,5 +10,8 @@
       "isMerkleRootGenerated": false,
       "isMerkleRootWrittenOnChain": false
     }
+  },
+  "metadata": {
+    "networkId": 42161
   }
 }
