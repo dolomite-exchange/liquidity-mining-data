@@ -373,6 +373,23 @@
         "30": "1350"
       }
     },
+    "701": {
+      "epoch": 701,
+      "startTimestamp": 1699488000,
+      "startBlockNumber": 148514486,
+      "endTimestamp": 1701907200,
+      "endBlockNumber": 157581702,
+      "isTimeElapsed": true,
+      "isMerkleRootGenerated": true,
+      "isMerkleRootWrittenOnChain": true,
+      "rewardWeights": {
+        "0": "90000",
+        "3": "10800",
+        "4": "90000",
+        "17": "144000"
+      },
+      "message": "Rectifies an issue with ARB in vesting positions"
+    },
     "997": {
       "epoch": 997,
       "startTimestamp": 1699488000,
