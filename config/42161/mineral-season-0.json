@@ -18,7 +18,7 @@
       "endTimestamp": 1714608000,
       "isTimeElapsed": true,
       "isMerkleRootGenerated": true,
-      "isMerkleRootWrittenOnChain": false
+      "isMerkleRootWrittenOnChain": true
     },
     "2": {
       "epoch": 2,
