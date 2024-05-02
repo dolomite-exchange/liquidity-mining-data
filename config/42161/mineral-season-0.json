@@ -19,6 +19,16 @@
       "isTimeElapsed": true,
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": false
+    },
+    "2": {
+      "epoch": 2,
+      "startBlockNumber": 206880528,
+      "startTimestamp": 1714608000,
+      "endBlockNumber": 206881315,
+      "endTimestamp": 1714608212,
+      "isTimeElapsed": false,
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false
     }
   },
   "metadata": {
