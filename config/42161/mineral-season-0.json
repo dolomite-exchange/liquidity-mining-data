@@ -24,8 +24,8 @@
       "epoch": 2,
       "startBlockNumber": 206880528,
       "startTimestamp": 1714608000,
-      "endBlockNumber": 206977238,
-      "endTimestamp": 1714632386,
+      "endBlockNumber": 206991439,
+      "endTimestamp": 1714635945,
       "isTimeElapsed": false,
       "isMerkleRootGenerated": false,
       "isMerkleRootWrittenOnChain": false
