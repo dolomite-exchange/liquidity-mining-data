@@ -17,7 +17,7 @@
       "endBlockNumber": 206880528,
       "endTimestamp": 1714608000,
       "isTimeElapsed": true,
-      "isMerkleRootGenerated": false,
+      "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": false
     }
   },
