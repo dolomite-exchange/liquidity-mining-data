@@ -1,0 +1,17 @@
+{
+  "epochs": {
+    "0": {
+      "epoch": 0,
+      "startBlockNumber": 206880528,
+      "startTimestamp": 1714608000,
+      "endBlockNumber": 208953487,
+      "endTimestamp": 1715129363,
+      "isTimeElapsed": false,
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false
+    }
+  },
+  "metadata": {
+    "networkId": 196
+  }
+}
