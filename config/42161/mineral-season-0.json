@@ -8,7 +8,11 @@
       "endTimestamp": 1714003200,
       "isTimeElapsed": true,
       "isMerkleRootGenerated": true,
-      "isMerkleRootWrittenOnChain": true
+      "isMerkleRootWrittenOnChain": true,
+      "marketIdToRewardMap": {
+        "0": "5000",
+        "17": "1"
+      }
     },
     "1": {
       "epoch": 1,
@@ -18,7 +22,11 @@
       "endTimestamp": 1714608000,
       "isTimeElapsed": true,
       "isMerkleRootGenerated": true,
-      "isMerkleRootWrittenOnChain": true
+      "isMerkleRootWrittenOnChain": true,
+      "marketIdToRewardMap": {
+        "0": "5000",
+        "17": "1"
+      }
     },
     "2": {
       "epoch": 2,
@@ -28,7 +36,11 @@
       "endTimestamp": 1715129363,
       "isTimeElapsed": false,
       "isMerkleRootGenerated": false,
-      "isMerkleRootWrittenOnChain": false
+      "isMerkleRootWrittenOnChain": false,
+      "marketIdToRewardMap": {
+        "0": "5000",
+        "17": "1"
+      }
     }
   },
   "metadata": {
