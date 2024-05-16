@@ -6,7 +6,7 @@
       "startTimestamp": 1715212800,
       "endBlockNumber": 1339441,
       "endTimestamp": 1715817599,
-      "isTimeElapsed": false,
+      "isTimeElapsed": true,
       "isMerkleRootGenerated": false,
       "isMerkleRootWrittenOnChain": false,
       "marketIdToRewardMap": {
