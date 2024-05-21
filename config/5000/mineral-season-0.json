@@ -1,0 +1,22 @@
+{
+  "epochs": {
+    "0": {
+      "epoch": 0,
+      "startBlockNumber": 63843644,
+      "startTimestamp": 1715817600,
+      "endBlockNumber": 63843645,
+      "endTimestamp": 1715817602,
+      "isTimeElapsed": false,
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false,
+      "marketIdToRewardMap": {
+        "0": "5000",
+        "1": "1.25",
+        "4": "1"
+      }
+    }
+  },
+  "metadata": {
+    "networkId": 5000
+  }
+}
