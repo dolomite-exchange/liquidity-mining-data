@@ -19,8 +19,8 @@
       "epoch": 1,
       "startBlockNumber": 64146044,
       "startTimestamp": 1716422400,
-      "endBlockNumber": 64148739,
-      "endTimestamp": 1716427790,
+      "endBlockNumber": 64150665,
+      "endTimestamp": 1716431642,
       "isTimeElapsed": false,
       "isMerkleRootGenerated": false,
       "isMerkleRootWrittenOnChain": false,
@@ -29,8 +29,7 @@
         "1": "1.25",
         "4": "1",
         "5": "2500"
-      },
-      "boost": 2
+      }
     }
   },
   "metadata": {
