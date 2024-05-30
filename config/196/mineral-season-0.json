@@ -34,9 +34,9 @@
       "epoch": 2,
       "startBlockNumber": 1541597,
       "startTimestamp": 1716422399,
-      "endBlockNumber": 1741669,
-      "endTimestamp": 1717027004,
-      "isTimeElapsed": false,
+      "endBlockNumber": 1741733,
+      "endTimestamp": 1717027197,
+      "isTimeElapsed": true,
       "isMerkleRootGenerated": false,
       "isMerkleRootWrittenOnChain": false,
       "marketIdToRewardMap": {
