@@ -1,3 +1,4 @@
 {
-  "maxEpochNumber": 6
+  "maxEpochNumber": 6,
+  "deltas": [9999]
 }
