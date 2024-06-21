@@ -1,5 +1,9 @@
 {
   "maxEpochNumber": 8,
+  "pendleData": {
+    "startEpochNumber": 10007,
+    "endEpochNumber": 10008
+  },
   "deltas": [
     9999
   ]
