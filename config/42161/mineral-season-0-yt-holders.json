@@ -1,0 +1,31 @@
+{
+  "epochs": {
+    "10008": {
+      "epoch": 10008,
+      "startBlockNumber": 221240985,
+      "startTimestamp": 1718236800,
+      "endBlockNumber": 221240985,
+      "endTimestamp": 1718236800,
+      "isTimeElapsed": false,
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false,
+      "boostedMultiplier": 3,
+      "marketId": 17
+    },
+    "10009": {
+      "epoch": 10009,
+      "startBlockNumber": 223657129,
+      "startTimestamp": 1718841600,
+      "endBlockNumber": 223657129,
+      "endTimestamp": 1718841600,
+      "isTimeElapsed": false,
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false,
+      "boostedMultiplier": 3,
+      "marketId": 17
+    }
+  },
+  "metadata": {
+    "networkId": 42161
+  }
+}
