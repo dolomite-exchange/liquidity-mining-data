@@ -20,7 +20,7 @@
       "endBlockNumber": 226076344,
       "endTimestamp": 1719446400,
       "isTimeElapsed": true,
-      "isMerkleRootGenerated": false,
+      "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": false,
       "boostedMultiplier": 3,
       "marketId": 17,
