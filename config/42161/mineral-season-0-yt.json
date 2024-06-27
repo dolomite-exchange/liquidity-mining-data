@@ -10,7 +10,8 @@
       "isMerkleRootGenerated": false,
       "isMerkleRootWrittenOnChain": false,
       "boostedMultiplier": 3,
-      "marketId": 17
+      "marketId": 17,
+      "marketIdReward": 1
     },
     "10009": {
       "epoch": 10009,
@@ -22,7 +23,8 @@
       "isMerkleRootGenerated": false,
       "isMerkleRootWrittenOnChain": false,
       "boostedMultiplier": 3,
-      "marketId": 17
+      "marketId": 17,
+      "marketIdReward": 1
     }
   },
   "metadata": {
