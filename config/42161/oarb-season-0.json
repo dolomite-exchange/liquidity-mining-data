@@ -380,8 +380,6 @@
       "endBlockNumber": 226076344,
       "endTimestamp": 1719446400,
       "isTimeElapsed": true,
-      "isMerkleRootGenerated": false,
-      "isMerkleRootWrittenOnChain": false,
       "oTokenAmount": "40000",
       "rewardWeights": {
         "0": "8800",
@@ -390,7 +388,9 @@
         "7": "2730",
         "17": "17500",
         "48": "1000"
-      }
+      },
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false
     },
     "701": {
       "epoch": 701,
