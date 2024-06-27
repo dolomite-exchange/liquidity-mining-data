@@ -79,8 +79,38 @@
       "epoch": 5,
       "startBlockNumber": 2141840,
       "startTimestamp": 1718236796,
-      "endBlockNumber": 2308383,
-      "endTimestamp": 1718740518,
+      "endBlockNumber": 2340881,
+      "endTimestamp": 1718841596,
+      "isTimeElapsed": true,
+      "isMerkleRootGenerated": true,
+      "isMerkleRootWrittenOnChain": true,
+      "marketIdToRewardMap": {
+        "0": "5000",
+        "3": "75000",
+        "4": "1"
+      }
+    },
+    "6": {
+      "epoch": 6,
+      "startBlockNumber": 2340881,
+      "startTimestamp": 1718841596,
+      "endBlockNumber": 2542364,
+      "endTimestamp": 1719446395,
+      "isTimeElapsed": true,
+      "isMerkleRootGenerated": true,
+      "isMerkleRootWrittenOnChain": true,
+      "marketIdToRewardMap": {
+        "0": "5000",
+        "3": "75000",
+        "4": "1"
+      }
+    },
+    "7": {
+      "epoch": 7,
+      "startBlockNumber": 2542364,
+      "startTimestamp": 1719446395,
+      "endBlockNumber": 2568864,
+      "endTimestamp": 1719525847,
       "isTimeElapsed": false,
       "isMerkleRootGenerated": false,
       "isMerkleRootWrittenOnChain": false,

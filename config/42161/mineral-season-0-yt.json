@@ -4,25 +4,27 @@
       "epoch": 10008,
       "startBlockNumber": 221240985,
       "startTimestamp": 1718236800,
-      "endBlockNumber": 221240985,
-      "endTimestamp": 1718236800,
-      "isTimeElapsed": false,
-      "isMerkleRootGenerated": false,
+      "endBlockNumber": 223657129,
+      "endTimestamp": 1718841600,
+      "isTimeElapsed": true,
+      "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": false,
       "boostedMultiplier": 3,
-      "marketId": 17
+      "marketId": 17,
+      "marketIdReward": 1
     },
     "10009": {
       "epoch": 10009,
       "startBlockNumber": 223657129,
       "startTimestamp": 1718841600,
-      "endBlockNumber": 223657129,
-      "endTimestamp": 1718841600,
-      "isTimeElapsed": false,
-      "isMerkleRootGenerated": false,
+      "endBlockNumber": 226076344,
+      "endTimestamp": 1719446400,
+      "isTimeElapsed": true,
+      "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": false,
       "boostedMultiplier": 3,
-      "marketId": 17
+      "marketId": 17,
+      "marketIdReward": 1
     }
   },
   "metadata": {
