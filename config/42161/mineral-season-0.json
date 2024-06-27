@@ -139,7 +139,7 @@
       "endBlockNumber": 226076344,
       "endTimestamp": 1719446400,
       "isTimeElapsed": true,
-      "isMerkleRootGenerated": false,
+      "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": false,
       "marketIdToRewardMap": {
         "0": "5000",
