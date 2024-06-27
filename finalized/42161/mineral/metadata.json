@@ -1,6 +1,6 @@
 {
   "maxEpochNumber": 10,
-  "pendleData": {
+  "pendleMetadata": {
     "startEpochNumber": 10007,
     "endEpochNumber": 10009
   },
