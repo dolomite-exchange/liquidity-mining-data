@@ -389,8 +389,8 @@
         "17": "17500",
         "48": "1000"
       },
-      "isMerkleRootGenerated": false,
-      "isMerkleRootWrittenOnChain": false
+      "isMerkleRootGenerated": true,
+      "isMerkleRootWrittenOnChain": true
     },
     "701": {
       "epoch": 701,
