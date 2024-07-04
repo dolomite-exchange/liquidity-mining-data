@@ -392,6 +392,25 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true
     },
+    "21": {
+      "epoch": 21,
+      "startBlockNumber": 226076344,
+      "startTimestamp": 1719446400,
+      "endBlockNumber": 228491520,
+      "endTimestamp": 1720051200,
+      "isTimeElapsed": true,
+      "oTokenAmount": "40000",
+      "rewardWeights": {
+        "0": "8800",
+        "3": "1170",
+        "4": "8800",
+        "7": "2730",
+        "17": "17500",
+        "48": "1000"
+      },
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false
+    },
     "701": {
       "epoch": 701,
       "startTimestamp": 1699488000,
