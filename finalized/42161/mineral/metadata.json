@@ -2,7 +2,7 @@
   "maxEpochNumber": 10,
   "pendleMetadata": {
     "startEpochNumber": 10008,
-    "maxEpochNumber": 10009
+    "maxEpochNumber": 10010
   },
   "deltas": [
     9999
