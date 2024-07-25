@@ -471,7 +471,7 @@
         "49": "2000"
       },
       "isMerkleRootGenerated": true,
-      "isMerkleRootWrittenOnChain": false
+      "isMerkleRootWrittenOnChain": true
     },
     "701": {
       "epoch": 701,
