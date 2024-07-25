@@ -470,7 +470,7 @@
         "48": "1000",
         "49": "2000"
       },
-      "isMerkleRootGenerated": false,
+      "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": false
     },
     "701": {
