@@ -477,9 +477,9 @@
       "epoch": 25,
       "startBlockNumber": 235722008,
       "startTimestamp": 1721865600,
-      "endBlockNumber": 235722008,
-      "endTimestamp": 1721865600,
-      "isTimeElapsed": false,
+      "endBlockNumber": 238132771,
+      "endTimestamp": 1722470400,
+      "isTimeElapsed": true,
       "oTokenAmount": "44500",
       "rewardWeights": {
         "0": "8800",
