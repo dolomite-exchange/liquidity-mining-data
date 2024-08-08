@@ -86,7 +86,7 @@
       "endTimestamp": 1722470400,
       "isTimeElapsed": true,
       "isMerkleRootGenerated": true,
-      "isMerkleRootWrittenOnChain": false,
+      "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
       "marketId": 17,
       "marketIdReward": 1
@@ -99,7 +99,7 @@
       "endTimestamp": 1723075200,
       "isTimeElapsed": true,
       "isMerkleRootGenerated": true,
-      "isMerkleRootWrittenOnChain": false,
+      "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
       "marketId": 17,
       "marketIdReward": 1
