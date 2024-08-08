@@ -197,7 +197,7 @@
       "endTimestamp": 1723075200,
       "isTimeElapsed": true,
       "isMerkleRootGenerated": true,
-      "isMerkleRootWrittenOnChain": false,
+      "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": "2.0",
       "marketIdToRewardMap": {
         "0": "5000",
