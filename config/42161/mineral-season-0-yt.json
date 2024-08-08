@@ -90,6 +90,19 @@
       "boostedMultiplier": 3,
       "marketId": 17,
       "marketIdReward": 1
+    },
+    "10015": {
+      "epoch": 10015,
+      "startBlockNumber": 238132771,
+      "startTimestamp": 1722470400,
+      "endBlockNumber": 240538507,
+      "endTimestamp": 1723075200,
+      "isTimeElapsed": true,
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false,
+      "boostedMultiplier": 3,
+      "marketId": 17,
+      "marketIdReward": 1
     }
   },
   "metadata": {
