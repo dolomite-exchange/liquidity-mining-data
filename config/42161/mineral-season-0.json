@@ -386,6 +386,21 @@
         "4": "75000",
         "17": "1"
       }
+    },
+    "26": {
+      "epoch": 26,
+      "startBlockNumber": 264575279,
+      "startTimestamp": 1729123200,
+      "endBlockNumber": 264577092,
+      "endTimestamp": 1729123658,
+      "isTimeElapsed": false,
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false,
+      "marketIdToRewardMap": {
+        "0": "5000",
+        "4": "75000",
+        "17": "1"
+      }
     }
   },
   "metadata": {
