@@ -224,6 +224,20 @@
         "17": 1
       }
     },
+    "10024": {
+      "epoch": 10024,
+      "startBlockNumber": 259771862,
+      "startTimestamp": 1727913600,
+      "endBlockNumber": 262169932,
+      "endTimestamp": 1728518400,
+      "isTimeElapsed": true,
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false,
+      "boostedMultiplier": 3,
+      "marketIdToRewardMap": {
+        "17": 1
+      }
+    },
     "10027": {
       "epoch": 10027,
       "startBlockNumber": 266982693,
