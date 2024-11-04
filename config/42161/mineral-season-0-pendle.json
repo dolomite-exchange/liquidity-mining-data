@@ -231,21 +231,6 @@
       "endBlockNumber": 269389501,
       "endTimestamp": 1730332800,
       "isTimeElapsed": true,
-      "isMerkleRootGenerated": true,
-      "isMerkleRootWrittenOnChain": false,
-      "boostedMultiplier": 3,
-      "marketIdToRewardMap": {
-        "4": 75000,
-        "17": 1
-      }
-    },
-    "10028": {
-      "epoch": 10028,
-      "startBlockNumber": 269389501,
-      "startTimestamp": 1730332800,
-      "endBlockNumber": 271035464,
-      "endTimestamp": 1730746276,
-      "isTimeElapsed": false,
       "isMerkleRootGenerated": false,
       "isMerkleRootWrittenOnChain": false,
       "boostedMultiplier": 3,
