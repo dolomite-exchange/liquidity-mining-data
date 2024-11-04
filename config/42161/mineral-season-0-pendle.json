@@ -10,8 +10,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10009": {
       "epoch": 10009,
@@ -23,8 +24,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10010": {
       "epoch": 10010,
@@ -36,8 +38,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10011": {
       "epoch": 10011,
@@ -49,8 +52,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10012": {
       "epoch": 10012,
@@ -62,8 +66,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10013": {
       "epoch": 10013,
@@ -75,8 +80,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": false,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10014": {
       "epoch": 10014,
@@ -88,8 +94,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10015": {
       "epoch": 10015,
@@ -101,8 +108,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10016": {
       "epoch": 10016,
@@ -114,8 +122,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10017": {
       "epoch": 10017,
@@ -127,8 +136,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10018": {
       "epoch": 10018,
@@ -140,8 +150,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10019": {
       "epoch": 10019,
@@ -153,8 +164,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10020": {
       "epoch": 10020,
@@ -166,8 +178,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10021": {
       "epoch": 10021,
@@ -179,8 +192,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10022": {
       "epoch": 10022,
@@ -192,8 +206,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     },
     "10023": {
       "epoch": 10023,
@@ -205,8 +220,9 @@
       "isMerkleRootGenerated": true,
       "isMerkleRootWrittenOnChain": true,
       "boostedMultiplier": 3,
-      "marketId": 17,
-      "marketIdReward": 1
+      "marketIdToRewardMap": {
+        "17": 1
+      }
     }
   },
   "metadata": {
