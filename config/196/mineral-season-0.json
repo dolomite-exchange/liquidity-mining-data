@@ -416,7 +416,7 @@
       "isMerkleRootWrittenOnChain": false,
       "marketIdToRewardMap": {
         "0": "5000",
-        "3": "75000",
+        "3": "100000",
         "4": "1"
       }
     }

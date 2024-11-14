@@ -280,7 +280,7 @@
       "isMerkleRootWrittenOnChain": false,
       "boostedMultiplier": 3,
       "marketIdToRewardMap": {
-        "4": 75000,
+        "4": 100000,
         "17": 1
       }
     }
