@@ -328,6 +328,21 @@
         "4": 100000,
         "17": 1
       }
+    },
+    "10034": {
+      "epoch": 10034,
+      "startBlockNumber": 283814705,
+      "startTimestamp": 1733961600,
+      "endBlockNumber": 283829821,
+      "endTimestamp": 1733965498,
+      "isTimeElapsed": false,
+      "isMerkleRootGenerated": false,
+      "isMerkleRootWrittenOnChain": false,
+      "boostedMultiplier": 3,
+      "marketIdToRewardMap": {
+        "4": 100000,
+        "17": 1
+      }
     }
   },
   "metadata": {
